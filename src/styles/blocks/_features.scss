@@ -61,7 +61,7 @@
     margin-inline: -30px;
 
     background-color: $color-accent-lighter;
-    background-image: url(../images/features/lenses.png), none;
+    background-image: url(../images/features/lenses.webp), none;
     background-repeat: no-repeat;
     background-size: 320px 173px;
     background-position: bottom;
@@ -77,7 +77,7 @@
     }
 
     @include on-desktop {
-      background-image: url(../images/features/lenses-desktop.png), none;
+      background-image: url(../images/features/lenses-desktop.webp), none;
       background-size: 543px 301px;
       background-position: 93% 100%;
       padding-left: 0;
